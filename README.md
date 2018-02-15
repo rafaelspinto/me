@@ -1,6 +1,4 @@
-# me
-Rafael Pinto's biography
-
+# Rafael Pinto's biography
 
 Rafael Pinto is a veteran of creating and managing software solutions for startups, small companies and even big corporate organisations. He is an Engineering Specialist at Celfocus, currently one of the biggest IT companies in Portugal that operates with a worldwide scope.
 
